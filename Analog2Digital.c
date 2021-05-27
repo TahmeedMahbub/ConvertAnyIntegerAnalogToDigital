@@ -47,7 +47,7 @@ void callNumber(int temp, int len)
             printf("%s",arr9+(3-len));
             break;
         default:
-            printf("Error! something wrong");
+            printf("Error! something wrong\n");
             break;
 
 
